@@ -1,0 +1,154 @@
+body{
+
+    background-color: #08162a;
+}
+
+.headerlogo{
+
+    position: absolute;
+    
+    top: 4.5%;
+    left: 8%;
+}
+.span1{
+    position: absolute;
+    top:8%;
+    left:65%;
+    font-size: 1vw;
+    color: white;
+}
+.span2{
+    position: absolute;
+    top:8%;
+    left:70%;
+    font-size: 1vw;
+    color: white;
+}
+.span3{
+    position: absolute;
+    top:8%;
+    left:77%;
+    font-size: 1vw;
+    color: white;
+}
+.span4{
+    position: absolute;
+    top:8%;
+    left:82%;
+    font-size: 1vw;
+    color: white;
+    z-index: 30;
+}
+.rectangle{
+    height: 3%;
+  width: 5%;
+  position: absolute;
+  background-color:#f29494;
+  top:7.7%;
+    left:81.5%;
+}
+.smartwatch1{
+position: absolute;
+font-size: 5vw;
+color: white;
+top: 25%;
+    left: 8%;
+
+}
+.smartwatch2{
+    position: absolute;
+    font-size: 1.35vw;
+    color: white;
+    top: 37%;
+    letter-spacing: 10px;
+        left: 8%;
+        color: #7c5963;
+    
+    }
+.divspan{
+    position: absolute;
+    font-size: 1vw;
+    color: white;
+    width: 22%;
+    top: 47%;
+    left: 8%;
+        color: white;
+}
+.rectangle1{
+    height: 32%;
+  width: 12%;
+  position: absolute;
+  background-color:#2b3544;
+  top: 55%;
+  border-radius: 25px;
+  left: 8%;
+}
+.rectangle2{
+    height: 32%;
+  width: 12%;
+  position: absolute;
+  background-color:#2b3544;
+  top: 55%;
+  border-radius: 25px;
+  left: 22%;
+}
+.smartwatchlogo{
+    position: absolute;
+    
+    top: 11%;
+    left: 43%;
+    width: 45%;
+
+}
+.white{
+    position: absolute;
+    
+    top: 64%;
+    left: 9%;
+    z-index: 50;
+    width: 10%;
+}
+.dark{
+    position: absolute;
+    
+    top: 64%;
+    left: 23%;
+    z-index: 50;
+    width: 10%;
+}
+.whiteel{
+    position: absolute;
+    font-size: 2vw;
+    top: 56.5%;
+    left: 11.5%;
+    color: white;
+    font-weight: bold;
+    z-index: 50;
+}
+.blackel{
+    position: absolute;
+    font-size: 2vw;
+    top: 56.5%;
+    left: 25.5%;
+    color: black;
+    font-weight: bold;
+    z-index: 50;
+}
+.element1{
+    position: absolute;
+    font-size: 0.8vw;
+    top: 61%;
+    left: 14%;
+    color: grey;
+    
+    z-index: 50;
+}
+.element2{
+    position: absolute;
+    font-size: 0.8vw;
+    top: 61%;
+    left: 27.5%;
+    color: grey;
+    
+    z-index: 50;
+}
